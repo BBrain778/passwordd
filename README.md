@@ -1,5 +1,9 @@
-my first github
+WEB server: Apache
 
-install composer  https://getcomposer.org/download/ for phpmail
+intstall PHP
 
-MS SQL
+MS SQL 
+
+install composer  https://getcomposer.org/download/     for phpmail
+
+
